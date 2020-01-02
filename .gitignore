@@ -1,0 +1,63 @@
+# General
+.env
+.env.test
+
+# Node-specific
+node_modules
+
+## Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+## Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+## Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+## Optional npm cache directory
+.npm
+
+## Optional eslint cache
+.eslintcache
+
+# Mac-specific
+.DS_store
+# General
+.env
+.env.test
+
+# Node-specific
+node_modules
+
+## Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+## Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+## Compiled binary addons (https://nodejs.org/api/addons.html)
+build/Release
+
+## Optional npm cache directory
+.npm
+
+## Optional eslint cache
+.eslintcache
+
+# Mac-specific
+.DS_store
+
+# Editor-specific
+
+## VSC
+*.code-workspace
