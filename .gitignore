@@ -1,3 +1,8 @@
+# Project-specific
+
+## Build-related
+dist
+
 # General
 .env
 .env.test
